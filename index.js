@@ -4,9 +4,9 @@ function hapyHolidays (){
 }
 
 function happyHolidaysTo(string){
-  
+
 }
 
 function hilodayCountdowns (string){
-  
+
 }
